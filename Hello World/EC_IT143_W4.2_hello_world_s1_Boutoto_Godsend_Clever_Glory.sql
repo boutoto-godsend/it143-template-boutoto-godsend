@@ -1,0 +1,1 @@
+--Q: What is the highest salary in the dbo.Employee?
