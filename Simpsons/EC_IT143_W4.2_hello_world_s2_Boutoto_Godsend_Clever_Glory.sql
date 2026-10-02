@@ -1,0 +1,3 @@
+--Q: What is the total amount spent by each card member?
+
+--A: Let's ask SQL Server and found it...
